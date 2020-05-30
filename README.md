@@ -1,4 +1,4 @@
-![Screenshots](src/assets/img/cover.png)
+![Screenshots](src/assets/img/cover1.png)
 # CuriculumVitae
 
 Simple CV coded with HTML5 and CCS3/SCSS
